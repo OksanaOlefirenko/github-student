@@ -1,0 +1,2 @@
+# github-student
+для тренировки
